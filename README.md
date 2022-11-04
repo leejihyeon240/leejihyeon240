@@ -6,7 +6,7 @@
 
 🏫 Seoul Women University (SWU) Digital Media / Software Convergence 
 
-  ### Tech Stack 🛠️
+### Tech Stack 🛠️
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>     
@@ -33,7 +33,8 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
 </div>
-## History
+
+### History
 <br>
 2022.03-2022.06 Worked at SmartMoneySystem 💻 as a developer, sub designer (Vue.js - Node.js / Figma - Zeplin)
 <br>
@@ -60,7 +61,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
 ## Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinseoShindor&layout=compact)](https://github.com/MinseoShindor/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinseoShindor)](https://github.com/MinseoShindor/github-readme-stats)
+  
+</div>
