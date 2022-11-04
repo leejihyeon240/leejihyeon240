@@ -32,8 +32,6 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
-</div>
-
 ### History
 <br>
 2022.03-2022.06 Worked at SmartMoneySystem 💻 as a developer, sub designer (Vue.js - Node.js / Figma - Zeplin)
@@ -60,9 +58,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<br>
-<div align="center">
+  
 ### Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinseoShindor&layout=compact)](https://github.com/MinseoShindor/github-readme-stats)
