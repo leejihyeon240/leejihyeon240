@@ -6,6 +6,7 @@
 
 🏫 Seoul Women University (SWU) Digital Media / Software Convergence 
 <br>
+<br>
 
 ### Tech Stack 🛠️
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> 
@@ -22,7 +23,8 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <br>
-
+<br>
+  
 ### Tools 🛠️
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
@@ -32,6 +34,7 @@
 <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<br>
 <br>
   
 ### History
@@ -45,7 +48,8 @@
 2022.08-Now➰ Joined KUSITMS 26th 💻 as a developer (Android)
 <br>
 <br>
-
+<br>
+  
 <!--
 **leejihyeon240/leejihyeon240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -64,6 +68,8 @@ Here are some ideas to get you started:
 ### Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinseoShindor&layout=compact)](https://github.com/MinseoShindor/github-readme-stats)
+<br>
+<br>
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinseoShindor)](https://github.com/MinseoShindor/github-readme-stats)
   
