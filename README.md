@@ -2,7 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FD058B&height=200&section=header&text=Lee%20%20Jihyeon%20&fontAlign=50&fontAlignY=40&fontSize=50&fontColor=ffffff)
 
-<br>
   
 ### HiDiyeonee🖐️
 
