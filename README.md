@@ -2,9 +2,12 @@
   
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FD058B&height=200&section=footer&text=Lee%20Ji%20%20Hyeon%20)
   
+<br>
+  
 ### HiDiyeonee🖐️
 
 🏫 Seoul Women University (SWU) Digital Media / Software Convergence 
+<br>
 <br>
 <br>
 
@@ -24,6 +27,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <br>
 <br>
+<br>
   
 ### Tools 🛠️
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
@@ -34,6 +38,7 @@
 <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<br>
 <br>
   
 <!--
@@ -54,12 +59,13 @@
 
 ### Contact
   <a href = "https://www.instagram.com/dihyeonee/"><img src="https://img.shields.io/badge/instagram-purple?style=flat-square&logo=Instagram&logoColor=white"/>
-    
+<br>
     
 ### Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejihyeon240&layout=compact)](https://github.com/leejihyeon240/github-readme-stats)
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejihyeon240)](https://github.com/leejihyeon240/github-readme-stats)
-  
+<br>
+    
 </div>
