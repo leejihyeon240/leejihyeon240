@@ -1,6 +1,7 @@
 <div align="center">
-  
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=FD058B&height=200&section=footer&text=Lee%20Ji%20%20Hyeon%20)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=FD058B&height=200&section=header&text=Jihyeon%20Lee&fontAlign=70&fontAlignY=40&fontSize=50&fontColor=ffffff)
+
   
 <br>
   
