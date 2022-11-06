@@ -53,11 +53,19 @@
 
 -->
 
+<br>
+<br>
+
+### Contact
+  <a href = "https://www.instagram.com/dihyeonee/"><img src="https://img.shields.io/badge/instagram-purple?style=flat-square&logo=Instagram&logoColor=white"/>
+    
+<br>
+<br>
+    
 ### Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejihyeon240&layout=compact)](https://github.com/leejihyeon240/github-readme-stats)
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejihyeon240)](https://github.com/leejihyeon240/github-readme-stats)
   
-
 </div>
