@@ -35,7 +35,6 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <br>
-<br>
   
 <!--
 ### History
@@ -54,12 +53,10 @@
 -->
 
 <br>
-<br>
 
 ### Contact
   <a href = "https://www.instagram.com/dihyeonee/"><img src="https://img.shields.io/badge/instagram-purple?style=flat-square&logo=Instagram&logoColor=white"/>
     
-<br>
 <br>
     
 ### Skills
