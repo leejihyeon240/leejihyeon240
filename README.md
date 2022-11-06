@@ -70,5 +70,6 @@
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejihyeon240)](https://github.com/leejihyeon240/github-readme-stats)
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=co3oing&layout=compact)](https://github.com/leejihyeon240/github-readme-stats)
     
 </div>
