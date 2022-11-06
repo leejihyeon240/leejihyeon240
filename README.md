@@ -38,6 +38,8 @@
 <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma&logoColor=white" />
+<img src ="https://img.shields.io/badge/Photoshop-blue?style=for-the-badge&logo=Adobe Photoshop&logoColor=white" /><br/>
 <br>
 <br>
   
