@@ -71,3 +71,5 @@
 <br>
     
 </div>
+
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=FD058B&height=80&section=footer)
