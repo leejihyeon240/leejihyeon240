@@ -5,7 +5,7 @@
   
 ### HiDiyeonee🖐️
 
-🏫 Seoul Women University (SWU) Digital Media / Software Convergence 
+🏫 Seoul Women University (SWU) Digital Media / Software Convergence 💻
 <br>
 <br>
 <br>
