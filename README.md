@@ -58,7 +58,7 @@
 
 ### History 🔥
 <br>
-📌2019.12 - 2020.01 <br> Seoul Women University Hackathon GURU1 '알약' 웹페이지 모작 🎖️대상 <br> 💻 as a Developer (HTML, CSS, JS)
+📌2019.12 - 2020.01 <br> Seoul Women University Hackathon GURU1 '알약' 웹페이지 🎖️대상 <br> 💻 as a Developer (HTML, CSS, JS)
 <br>
 <br>
 📌2021.01 - 2021.02 <br> Seoul Women University Hackathon GURU2 Kotlin 기반 '대학생 학업 및 포트폴리오 관리' 안드로이드 앱 개발 🎖️최우수상 <br> 💻 as a Developer (Android)
