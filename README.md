@@ -42,10 +42,9 @@
 <br>
 <br>
   
-<!--
 ### History
 <br>
-2022.03-2022.06 Worked at SmartMoneySystem 💻 as a developer, sub designer (Vue.js - Node.js / Figma - Zeplin)
+2019.12.23 - 2020.01.21 Seoul Women University Hackathon GURU1 '알약' 웹페이지 모작 및 1등 수상 💻 as a Team Leader & Web Frontend developer (HTML, CSS, JS)
 <br>
 <br>
 2022.03-2022.08 Joined UMC NDEV 2th DSWU 💻 as a developer (Android)
@@ -55,8 +54,6 @@
 <br>
 <br>
 <br>
-
--->
 
 ### Contact
   <a href = "https://www.instagram.com/dihyeonee/"><img src="https://img.shields.io/badge/instagram-purple?style=flat-square&logo=Instagram&logoColor=white"/>
