@@ -42,21 +42,48 @@
 <br>
 <br>
   
+### Contact
+<a href = "https://www.instagram.com/dihyeonee/"><img src="https://img.shields.io/badge/instagram-purple?style=flat-square&logo=Instagram&logoColor=white"/>
+<br>
+<br>
+<br>
+  
 ### History
 <br>
-2019.12.23 - 2020.01.21 <br> Seoul Women University Hackathon GURU1 '알약' 웹페이지 모작 및 1등 수상 <br> 💻 as a Team Leader & Web Frontend developer (HTML, CSS, JS)
+2019.12 - 2020.01 Seoul Women University Hackathon GURU1 '알약' 웹페이지 모작 🎖️대상 <br> 💻 as a Developer (HTML, CSS, JS)
 <br>
 <br>
-2022.03-2022.08 Joined UMC NDEV 2th DSWU 💻 as a developer (Android)
+2021.01 - 2021.02 Seoul Women University Hackathon GURU2 Kotlin 기반 '대학생 학업 및 포트폴리오 관리' 안드로이드 앱 개발 🎖️최우수상 <br> 💻 as a Developer (Android)
 <br>
 <br>
-2022.08-Now➰ Joined KUSITMS 26th 💻 as a developer (Android)
+2021.07 - 2021.08 Handong Global University SW중심대 연합 모형차 자율주행 경진대회 🎖️학술부분 인기상 <br> 💻 as a Developer (Python, Raspberry Pi)
 <br>
 <br>
+2021.09 - 2021.12 VR 햅틱 컨트롤러 손동작 연구 <br> 💻 as a Undergraduate researcher (Unity, VR)
 <br>
-
-### Contact
-  <a href = "https://www.instagram.com/dihyeonee/"><img src="https://img.shields.io/badge/instagram-purple?style=flat-square&logo=Instagram&logoColor=white"/>
+<br>
+2021.09 - 2022.06 Digital Media Graduation project JAVA 기반 '활동량 증진' AR 앱 개발 및 졸업전시회 <br> 💻 as a Product Manager & Developer (Android)
+<br>
+<br>
+2022.03 - 2022.05 Joined KUSITMS 25th & Java 기반 '꽃 예약 주문' 앱 개발 <br> 💻 as a Developer (Android)
+<br>
+<br>
+2022.03 - 2022.06 Software Convergence Graduation project Kotlin 기반 '영수증 OCR 인식 및 카테고리 자동 분류' 가계부 앱 개발 🎖️우수상 <br> 💻 as a Developer (Android, AI)
+<br>
+<br>
+2022.06 - 2022.08 ‘꽃 예약 주문 플랫폼 - 홀리몰리’ MVP 웹 개발 및 유지/보수 <br> 💻 as a Developer (SpringBoot, HTML, CSS, JS)
+<br>
+<br>
+2022.08 - Now➰ Secret 비밀🤫 <br> 💻 as a Developer (React Native)
+<br>
+<br>
+2022.09 Pablo Air a Corporate project - 사용자 인증 도어락 시스템 및 플랫폼 개발 <br> 💻 as a Developer (Android, Arduino)
+<br>
+<br>
+2022.10 - 2022.11 Joined KUSITMS 26th & Java 기반 '결식아동 서스펜디드 밀' 앱 개발 🎖️최우수상 <br> 💻 as a Developer (Android) & 경영총괄팀 팀원
+<br>
+<br>
+2022.12 - Now➰ Joined KUSITMS 27th <br> 💻 as a Developer (Android) & 경영총괄팀 팀장
 <br>
 <br>
 <br>
