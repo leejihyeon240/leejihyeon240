@@ -44,7 +44,7 @@
   
 ### History
 <br>
-###### `2019.12.23 - 2020.01.21` <br> Seoul Women University Hackathon GURU1 '알약' 웹페이지 모작 및 1등 수상 <br> 💻 as a Team Leader & Web Frontend developer (HTML, CSS, JS)
+2019.12.23 - 2020.01.21 <br> Seoul Women University Hackathon GURU1 '알약' 웹페이지 모작 및 1등 수상 <br> 💻 as a Team Leader & Web Frontend developer (HTML, CSS, JS)
 <br>
 <br>
 2022.03-2022.08 Joined UMC NDEV 2th DSWU 💻 as a developer (Android)
