@@ -47,7 +47,16 @@
 <br>
 <br>
 <br>
-  
+
+### Skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejihyeon240&layout=compact)](https://github.com/leejihyeon240/github-readme-stats)
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejihyeon240)](https://github.com/leejihyeon240/github-readme-stats)
+<br>
+<br>
+<br>
+
 ### History
 <br>
 2019.12 - 2020.01 <br> Seoul Women University Hackathon GURU1 '알약' 웹페이지 모작 🎖️대상 <br> 💻 as a Developer (HTML, CSS, JS)
@@ -86,13 +95,6 @@
 2022.12 - Now➰ <br> Joined KUSITMS 27th <br> 💻 as a Developer (Android) & 경영총괄팀 팀장
 <br>
 <br>
-<br>
-    
-### Skills
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejihyeon240&layout=compact)](https://github.com/leejihyeon240/github-readme-stats)
-<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejihyeon240)](https://github.com/leejihyeon240/github-readme-stats)
 <br>
     
 </div>
