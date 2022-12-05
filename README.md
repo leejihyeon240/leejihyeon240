@@ -76,7 +76,7 @@
 📌2022.03 - 2022.06 <br> Software Convergence Graduation project Kotlin 기반 '영수증 OCR 인식 및 카테고리 자동 분류' 가계부 앱 개발 🎖️우수상 <br> 💻 as a Developer (Android, AI)
 <br>
 <br>
-📌2022.03 - 2022.05 <br> Joined KUSITMS 25th & Java 기반 '꽃 예약 주문' 앱 개발 <br> 💻 as a Developer (Android)
+📌2022.03 - 2022.05 <br> Joined KUSITMS 25th & Java 기반 '꽃 예약 주문' 플랫폼 개발 <br> 💻 as a Developer (Android)
 <br>
 <br>
 📌2022.06 - 2022.08 <br> ‘꽃 예약 주문 플랫폼 - 홀리몰리’ MVP 웹 개발 및 유지/보수 <br> 💻 as a Developer (SpringBoot, MySQL, HTML, CSS, JS)
@@ -88,7 +88,7 @@
 📌2022.09 <br> Pablo Air a Corporate project - 사용자 인증 도어락 시스템 및 플랫폼 개발 <br> 💻 as a Developer (Android, Arduino)
 <br>
 <br>
-📌2022.10 - 2022.11 <br> Joined KUSITMS 26th & Java 기반 '결식아동 서스펜디드 밀' 앱 개발 🎖️최우수상 <br> 💻 as a Developer (Android) & 경영총괄팀 팀원
+📌2022.10 - 2022.11 <br> Joined KUSITMS 26th & Java 기반 '결식아동 서스펜디드 밀' 플랫폼 개발 🎖️최우수상 <br> 💻 as a Developer (Android) & 경영총괄팀 팀원
 <br>
 <br>
 📌2022.12 - Now➰ <br> Joined KUSITMS 27th <br> 💻 as a Developer (Android) & 경영총괄팀 팀장
