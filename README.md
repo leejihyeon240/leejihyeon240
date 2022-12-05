@@ -79,7 +79,7 @@
 📌2022.03 - 2022.05 <br> Joined KUSITMS 25th & Java 기반 '꽃 예약 주문' 앱 개발 <br> 💻 as a Developer (Android)
 <br>
 <br>
-📌2022.06 - 2022.08 <br> ‘꽃 예약 주문 플랫폼 - 홀리몰리’ MVP 웹 개발 및 유지/보수 <br> 💻 as a Developer (SpringBoot, HTML, CSS, JS)
+📌2022.06 - 2022.08 <br> ‘꽃 예약 주문 플랫폼 - 홀리몰리’ MVP 웹 개발 및 유지/보수 <br> 💻 as a Developer (SpringBoot, MySQL, HTML, CSS, JS)
 <br>
 <br>
 📌2022.08 - Now➰ <br> Secret 비밀🤫 <br> 💻 as a Developer (React Native)
