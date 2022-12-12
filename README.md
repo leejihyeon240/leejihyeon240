@@ -45,11 +45,6 @@
 ### Contact 📞
 <a href = "https://www.instagram.com/dihyeonee/"><img src="https://img.shields.io/badge/instagram-purple?style=flat-square&logo=Instagram&logoColor=white"/>
 <a href = "https://velog.io/@leejihyeon240"><img src="https://img.shields.io/badge/Blog-orange?style=flat-square&logo=Blogger&logoColor=white"/></a>
-  <a href="https://velog.io/@leejihyeon240">
-    <img 
-        src="http://img.shields.io/badge/222222?style=flat&logo=아이콘명(ex.Vector Logo Zone)&link=https://velog.io/@leejihyeon240"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 <br>
 <br>
 <br>
