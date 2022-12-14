@@ -51,8 +51,8 @@
 
 ### Skills ✨
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejihyeon240&layout=compact)](https://github.com/leejihyeon240/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejihyeon240)](https://github.com/leejihyeon240/github-readme-stats)
+[![Top Langs](https://github-readme-stats.leejihyeon240.vercel.app/api/top-langs/?username=leejihyeon240&layout=compact)](https://github.com/leejihyeon240/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.leejihyeon240.vercel.app/api?username=leejihyeon240)](https://github.com/leejihyeon240/github-readme-stats)
 <br>
 <br>
 <br>
