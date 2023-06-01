@@ -83,9 +83,6 @@
 📌2022.06 - 2022.08 <br> ‘꽃 예약 주문 플랫폼 - 홀리몰리’ MVP 웹 개발 및 유지/보수 <br> 💻 as a Developer (SpringBoot, MySQL, HTML, CSS, JS)
 <br>
 <br>
-📌2022.08 - Now➰ <br> Secret 비밀🤫 <br> 💻 as a Developer (React Native)
-<br>
-<br>
 📌2022.09 <br> Pablo Air a Corporate project - 사용자 인증 도어락 시스템 및 플랫폼 개발 <br> 💻 as a Developer (Android, Arduino)
 <br>
 <br>
@@ -93,6 +90,9 @@
 <br>
 <br>
 📌2022.12 - 2023.05 <br> Joined KUSITMS 27th & Java 기반 '단체의 성과 및 체계 관리를 돕는 모바일 서비스' 플랫폼 개발 🎖️대상 <br> 💻 as a Developer (Android) & 경영총괄팀 팀장
+<br>
+<br>
+📌2023.05 - Now➰ <br> 예비창업패키지 <LBS 기술이 적용된 나만의 맛집 지도 DB 구축 및 공유 서비스> 베타 서비스 개발ing <br> 💻 as a Developer (React Native) & 텅캐쳐(Tongue Catcher)Team CEO
 <br>
 <br>
 <br>
