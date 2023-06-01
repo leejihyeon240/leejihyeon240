@@ -92,7 +92,7 @@
 📌2022.10 - 2022.11 <br> Joined KUSITMS 26th & Java 기반 '결식아동 서스펜디드 밀' 플랫폼 개발 🎖️최우수상 <br> 💻 as a Developer (Android) & 경영총괄팀 팀원
 <br>
 <br>
-📌2022.12 - Now➰ <br> Joined KUSITMS 27th <br> 💻 as a Developer (Android) & 경영총괄팀 팀장
+📌2022.12 - 2023.05 <br> Joined KUSITMS 27th & Java 기반 '단체의 성과 및 체계 관리를 돕는 모바일 서비스' 플랫폼 개발 🎖️대상 <br> 💻 as a Developer (Android) & 경영총괄팀 팀장
 <br>
 <br>
 <br>
