@@ -92,10 +92,10 @@
 📌2022.12 - 2023.05 <br> Joined KUSITMS 27th & Java 기반 '단체의 성과 및 체계 관리를 돕는 모바일 서비스' 플랫폼 개발 🎖️대상 <br> 💻 as a Developer (Android) & 경영총괄팀 팀장
 <br>
 <br>
-📌2023.05 - Now➰ <br> [중소벤처기업부&창업진흥원 주관] 예비창업패키지 <br> 'LBS 기술이 적용된 나만의 맛집 지도 DB 구축 및 공유 서비스' 베타 서비스 개발ing <br> 💻 as a Developer (React Native) & 텅캐쳐(Tongue Catcher)Team CEO
+📌2023.05 - Now➰ <br> [중소벤처기업부&창업진흥원 주관] 예비창업패키지 <br> 'LBS 기술이 적용된 나만의 맛집 지도 DB 구축 및 공유 서비스' 베타 서비스 개발ing <br> 💻 as a Developer (Flutter) & 텅캐쳐(Tongue Catcher)Team CEO
 <br>
 <br>
-📌2023.07 - Now➰ <br> Flutter 기반 '단체의 성과 및 체계 관리를 돕는 모바일 서비스' 플랫폼 개발(Android 및 iOS 동시 개발 및 출시 목표) <br> 💻 as a Developer (Flutter)
+📌2023.07 - Now➰ <br> Flutter 기반 '단체의 성과 및 체계 관리를 돕는 모바일 서비스' 플랫폼 개발ing <br> (Android 및 iOS 동시 개발 및 출시 목표) <br> 💻 as a Developer (Flutter)
 <br>
 <br>
 <br>
