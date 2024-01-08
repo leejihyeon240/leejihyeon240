@@ -95,7 +95,9 @@
 📌2023.05 - Now➰ <br> [중소벤처기업부&창업진흥원 주관] 예비창업패키지 <br> 'LBS 기술이 적용된 나만의 맛집 지도 DB 구축 및 공유 서비스' 베타 서비스 개발ing <br> 💻 as a Developer (Flutter) & 텅캐쳐(Tongue Catcher)Team CEO
 <br>
 <br>
-📌2023.07 - Now➰ <br> Flutter 기반 '단체의 성과 및 체계 관리를 돕는 모바일 서비스' 플랫폼 개발ing <br> 💻 as a Developer (Flutter)
+📌2023.07 - Now➰ <br> Flutter 기반 '단체의 성과 및 체계 관리를 돕는 모바일 서비스' 플랫폼 개발 & iOS 출시 완료 <br> 💻 as a Developer (Flutter)
+<br> <a href = "https://apps.apple.com/kr/app/모잉-moing-함께하는-자기계발/id6472060530"> 🔥iOS MOING 다운로드 하러 가기🔥 
+
 <br>
 <br>
 <br>
