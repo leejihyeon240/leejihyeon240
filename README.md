@@ -104,9 +104,10 @@
 #### MOING iOS
 <a href = "https://apps.apple.com/kr/app/모잉-moing-함께하는-자기계발/id6472060530"> 🔥iOS MOING 다운로드 하러 가기🔥 
 
-📌 2024.09 - Now➰ <br> 신한DS 금융SW 아카데미 4기
+📌 2024.09 - 2025.04➰ <br> 신한DS 금융SW 아카데미 4기
+<br> 웹 풀스택 역량 강화 및 금융 공학 교육(총 950시간) 이수. 
 <br> 💻 as a Financial Full Stack Developer Trainee
-
+<br> React, Spring Boot 기반 '파킹통장을 활용한 소액 투자 서비스 - 나는 SOL로' 플랫폼 개발 및 유지/보수 🎖️최우수상
 <br>
 <br>
 <br>
