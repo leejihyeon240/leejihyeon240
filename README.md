@@ -9,10 +9,6 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejihyeon240&layout=compact)](https://github.com/leejihyeon240/github-readme-stats)
-<br>
-<br>
-
 ### History 🔥
 📌 2019.12 - 2020.01 <br> Seoul Women University Hackathon GURU1 웹페이지 개발 🎖️대상 <br> 💻 as a Developer (HTML, CSS, JS)
 <br>
