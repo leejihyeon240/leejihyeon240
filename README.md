@@ -9,8 +9,6 @@
 <br>
 <br>
 
-### Skills ✨
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejihyeon240&layout=compact)](https://github.com/leejihyeon240/github-readme-stats)
 <br>
 <br>
