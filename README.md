@@ -56,6 +56,9 @@
 <br> React, Spring Boot 기반 '파킹통장을 활용한 소액 투자 서비스 - 나는 SOL로' 플랫폼 개발 및 유지/보수 🎖️최우수상
 <br> 💻 as a Financial Full Stack Developer Trainee
 <br>
+
+📌 2025.07 - Now➰ <br> IBK 기업은행 33기 개발 인턴
+<br> 💻 as a Developer (AI & DATA)
 <br>
 <br>
     
